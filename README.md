@@ -4,6 +4,6 @@
     <title>demo page</title>
   </head>
   <body>
-    This is my trial page.
+    this is my trial page
   </body>
   </html>
